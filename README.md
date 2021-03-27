@@ -1,6 +1,6 @@
 ### Hey There, I'm Srikoushikkamal - aka [skk][website] 👋
 
-<p align="center">
+<p align="left">
 <img src="https://cdn.dribbble.com/users/118246/screenshots/5343519/wifi.gif" width="500"  />
 </p>
 
