@@ -42,7 +42,7 @@
 
 ### Own Score Playlist 🎧
 
-[<img src="https://miro.medium.com/max/6440/1*vpVCVKVX0FFYP88TeyimDA.gif" width="100" />](https://soundcloud.com/skkscores)
+[<img src="https://i.gifer.com/origin/86/86c2069faefa082ce4c6d380b78abbfa_w200.webp" width="100" />](https://soundcloud.com/skkscores)
 
 <details>
   <summary>:zap: GitHub Stats</summary>
