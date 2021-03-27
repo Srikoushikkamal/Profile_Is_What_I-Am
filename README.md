@@ -41,7 +41,10 @@
 [<img align="left" alt="Bash" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />]
 
 ### Own Score Playlist 🎧
-[<img src="https://i.pinimg.com/originals/86/46/1e/86461e05a636d3660a4bb6991f52044e.gif" width="100" />](https://soundcloud.com/skkscores)
+
+
+[<img src="https://i.pinimg.com/originals/86/46/1e/86461e05a636d3660a4bb6991f52044e.gif" width="200" />](https://soundcloud.com/skkscores)
+
 
 <details>
   <summary>:zap: GitHub Stats</summary>
