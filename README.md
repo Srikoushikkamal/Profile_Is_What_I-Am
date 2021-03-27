@@ -5,11 +5,11 @@
 
 ## I'm a Developer ofc & A Musician!!!
 
-- 🔭 I just laun
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw and play guitar / drums
+- 🔭 I just Code, & that's it.
+- 🌱 Truly I'm Trying To Learn DataScience And It's Branches 
+- 👯 I'm Always Open To Work With People.
+- 🥅 2021 Goals: To Go From Alien To Colonizing ML/AR
+- ⚡! Music Is All I Believe in..!
 
 ### Spotify Playing 🎧
 
