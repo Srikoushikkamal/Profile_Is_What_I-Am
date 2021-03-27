@@ -42,6 +42,7 @@
 
 ### Own Score Playlist 🎧
 [<img src="https://i.gifer.com/95lB.gif" width="80" />]
+<br/>
 [<img src="https://i.gifer.com/origin/86/86c2069faefa082ce4c6d380b78abbfa_w200.webp" width="100" />](https://soundcloud.com/skkscores)
 
 <details>
