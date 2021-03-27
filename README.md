@@ -15,9 +15,9 @@
 - 🥅 2021 Goals: To Go From Alien To Colonizing ML/AR
 - ⚡! Music Is All I Believe in..!
 
-### Spotify Playing 🎧
+### Spotify Podcast Playlist 🎧
 
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/episode/295zoMnhPrxzDjSUYpQFHJ?si=tuodH4XbQAi32wkt4BMAbA&utm_source=copy-link)
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Spotify Playing" width="350" />](https://open.spotify.com/episode/295zoMnhPrxzDjSUYpQFHJ?si=tuodH4XbQAi32wkt4BMAbA&utm_source=copy-link)
 
 ### Connect with me:
 
