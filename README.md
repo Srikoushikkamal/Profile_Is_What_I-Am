@@ -1,7 +1,7 @@
 ### Hey There, I'm Srikoushikkamal - aka [skk][website] 👋
 
 <p align="center">
-<img src="Programmers.gif" width="500"  />
+<img src="Programmer.gif" width="500"  />
 </p>
 
 [![Website](https://img.shields.io/website?label=Srikoushikkamal&style=for-the-badge&url=https%3A%2F%2Fsrikoushikkamal.life)](https://srikoushikkamal.life)
