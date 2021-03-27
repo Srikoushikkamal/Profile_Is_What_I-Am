@@ -17,7 +17,7 @@
 
 ### Podcast Playlist 🎧
 
-[<img src="https://i.pinimg.com/originals/27/6f/27/276f273d11f8b9dbc0a9c55bb38ea8c6.gif" alt="Spotify Playing" width="300" />](https://open.spotify.com/episode/295zoMnhPrxzDjSUYpQFHJ?si=tuodH4XbQAi32wkt4BMAbA&utm_source=copy-link)
+[<img src="https://i.pinimg.com/originals/27/6f/27/276f273d11f8b9dbc0a9c55bb38ea8c6.gif" alt="Spotify Playing" width="150" />](https://open.spotify.com/episode/295zoMnhPrxzDjSUYpQFHJ?si=tuodH4XbQAi32wkt4BMAbA&utm_source=copy-link)
 
 ### Connect with me:
 
