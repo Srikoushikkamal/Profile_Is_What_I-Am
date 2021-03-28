@@ -40,7 +40,7 @@
 ### Podcast Playlist 🎧
 [<img src="https://media4.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" alt="Spotify Playing" width="150" />](https://open.spotify.com/episode/295zoMnhPrxzDjSUYpQFHJ?si=tuodH4XbQAi32wkt4BMAbA&utm_source=copy-link)
 <br/>
-### Soundcloud Own-Score 🎧
+### Soundcloud Own-MusicalScore 🎧
 
 [<img src="https://i.gifer.com/origin/86/86c2069faefa082ce4c6d380b78abbfa_w200.webp" width="200" />](https://soundcloud.com/skkscores)
 
