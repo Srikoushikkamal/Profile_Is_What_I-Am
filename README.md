@@ -15,7 +15,7 @@
 - ⚡! Music Is All I Believe in..!
 
 
-### Connect with me:
+### Connect With Me : 
 
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 
@@ -49,7 +49,7 @@
 <h4 align="center">Profile Views</h4>
 
 <p align="center"><img src="https://profile-counter.glitch.me/{Srikoushikkamal}/count.svg" alt="Srikoushikkamal :: Profile Views" /></p>
-
+<br/>
 <details>
   <summary>:zap: GitHub Stats</summary>
 
