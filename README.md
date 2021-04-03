@@ -50,6 +50,10 @@
 
   <img align="left" alt="Srikoushikkamal's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Srikoushikkamal&show_icons=true&hide_border=true" />
 
+<h4 align="center">Profile Views</h4>
+
+<p align="center"><img src="https://profile-counter.glitch.me/{Srikoushikkamal}/count.svg" alt="Srikoushikkamal :: Profile Views" /></p>
+
 </details>
 
 [website]: https://srikoushikkamal.life
