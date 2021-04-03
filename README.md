@@ -45,14 +45,16 @@
 [<img src="https://i.gifer.com/origin/86/86c2069faefa082ce4c6d380b78abbfa_w200.webp" width="200" />](https://soundcloud.com/skkscores)
 
 <br/>
+
+<h4 align="center">Profile Views</h4>
+
+<p align="center"><img src="https://profile-counter.glitch.me/{Srikoushikkamal}/count.svg" alt="Srikoushikkamal :: Profile Views" /></p>
+
 <details>
   <summary>:zap: GitHub Stats</summary>
 
   <img align="left" alt="Srikoushikkamal's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Srikoushikkamal&show_icons=true&hide_border=true" />
 
-<h4 align="center">Profile Views</h4>
-
-<p align="center"><img src="https://profile-counter.glitch.me/{Srikoushikkamal}/count.svg" alt="Srikoushikkamal :: Profile Views" /></p>
 
 </details>
 
