@@ -17,7 +17,7 @@
 
 ### Connect With Me : 
 
-[<img align="left" alt="skk" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][]
+[<img align="left" alt="skk" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][Gmail]
 
 [<img align="left" alt="skk | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="skk | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
@@ -55,7 +55,7 @@
 
 
 </details>
-
+[Gmail]: srikoushikkamal@gmail.com
 [Resume]:https://docs.google.com/document/d/e/2PACX-1vRONZTq-xh8I_PqVFmQ8gwli5ivWNMIgYMaxsHZ1EbZICEOlnEy4eBbBZ55O2hkJi7FwaBqV_ArCk0I/pub
 [website]: https://srikoushikkamal.life
 [instagram]: https://instagram.com/skk_kamal_?igshid=4svygymtw83f
