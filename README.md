@@ -1,4 +1,4 @@
-### Hey There, I'm Srikoushikkamal - aka [skk][Resume] 👋
+### Hey There, I'm Srikoushikkamal - aka [skk][resume] 👋
 
 <p align="left">
 <img src="https://cdn.dribbble.com/users/118246/screenshots/5343519/wifi.gif" width="500"  />
@@ -53,7 +53,7 @@
 
 
 </details>
-[Resume]:https://docs.google.com/document/d/e/2PACX-1vRONZTq-xh8I_PqVFmQ8gwli5ivWNMIgYMaxsHZ1EbZICEOlnEy4eBbBZ55O2hkJi7FwaBqV_ArCk0I/pub
+[resume]:https://docs.google.com/document/d/e/2PACX-1vRONZTq-xh8I_PqVFmQ8gwli5ivWNMIgYMaxsHZ1EbZICEOlnEy4eBbBZ55O2hkJi7FwaBqV_ArCk0I/pub
 [website]: https://srikoushikkamal.life
 [instagram]: https://instagram.com/skk_kamal_?igshid=4svygymtw83f
 [linkedin]: https://linkedin.com/in/Srikoushikkamal
