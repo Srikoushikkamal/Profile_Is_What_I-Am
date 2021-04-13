@@ -55,7 +55,6 @@
 
 
 </details>
-[Gmail]: srikoushikkamal@gmail.com
 [Resume]:https://docs.google.com/document/d/e/2PACX-1vRONZTq-xh8I_PqVFmQ8gwli5ivWNMIgYMaxsHZ1EbZICEOlnEy4eBbBZ55O2hkJi7FwaBqV_ArCk0I/pub
 [website]: https://srikoushikkamal.life
 [instagram]: https://instagram.com/skk_kamal_?igshid=4svygymtw83f
