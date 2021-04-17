@@ -1,11 +1,11 @@
-### Hey There, I'm Srikoushikkamal - aka [skk][resume] 👋
+### Hey There, I'm Srikoushikkamal - aka skk 👋
 
 <p align="left">
 <img src="https://cdn.dribbble.com/users/118246/screenshots/5343519/wifi.gif" width="500"  />
 </p>
 
 
-[![website](https://img.shields.io/website?label=Srikoushikkamal&style=for-the-badge&url=https%3A%2F%2Fsrikoushikkamal.life)](https://srikoushikkamal.life)
+[![website](https://img.shields.io/website?label=Srikoushikkamal&style=for-the-badge&url=https%3A%2F%2Fsrikoushikkamal.life)][resume]
 
 ## I'm a Developer ofc & A Musician!!!
 
