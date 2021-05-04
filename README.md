@@ -9,10 +9,10 @@
 
 ## I'm a Developer ofc & A Musician!!!
 
-- 🔭 I just Code, & that's it.
-- 🌱 Truly I'm Trying To Learn DataScience And It's Branches
+- 🔭 Programming/Coding is the differnce I Learnt From
+- 🌱 Trying To Enirich DataScience And It's Branches
 - 👯 I'm Always Open To Work With People.
-- 🥅 2021 Goals: To Go From Alien To Colonizing ML/AR
+- 🥅 2021 Goals: To Get To An Intern At An ML Enterprise
 - ⚡! Music Is All I Believe in..!
 
 
