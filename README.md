@@ -22,6 +22,7 @@
 [<img align="left" alt="skk | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="skk" width="22px" src="https://cdn.iconscout.com/icon/free/png-256/gmail-1664104-1412927.png" />][blank] : srikoushikkamal@gmail.com
 
+<iframe src="https://docs.google.com/document/d/e/2PACX-1vTs5A3HLDhYFdbK5iX6LpywPTTrJhoIOZzVRrTZP9NnOazcwIZsS5zDoP0YpBtzVVi1h25o8rFLrApF/pub?embedded=true"></iframe>
 
 
 <br />
@@ -64,4 +65,3 @@
 [instagram]: https://instagram.com/skk_kamal_?igshid=4svygymtw83f
 [linkedin]: https://linkedin.com/in/Srikoushikkamal
 [blank]: https://www.blank.org/
-[mail]: srikoushikkamal@gmail.com
