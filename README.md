@@ -22,6 +22,8 @@
 [<img align="left" alt="skk | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="skk | Mail" width="22px" src="https://cdn.iconscout.com/icon/free/png-256/gmail-1664104-1412927.png" />][mail]
 
+[![style: styled-components](https://img.shields.io/badge/style-%F0%9F%92%85%20styled--components-orange.svg?colorB=daa357&colorA=db748e)](https://github.com/styled-components/styled-components)
+
 <br />
 
 ### Languages and Tools:
