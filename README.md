@@ -9,10 +9,10 @@
 
 ## I'm a Developer ofc & A Musician!!!
 
-- 🔭 Programming/Coding is the differnce I Learnt From
-- 🌱 Trying To Enirich DataScience And It's Branches
-- 👯 I'm Always Open To Work With People.
-- 🥅 2021 Goals: To Get To An Intern At An ML Enterprise
+- 🔭 Python ! 
+- 🌱 Trying To Enirich ML And It's Branches
+- 👯 I'm Always Open To Work With People
+- 🥅 2021 Goals: To Get An ML Internship 
 - ⚡! Music Is All I Believe in..!
 
 
@@ -20,7 +20,7 @@
 
 [<img align="left" alt="skk | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="skk | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="skk" width="22px" src="https://cdn.iconscout.com/icon/free/png-256/gmail-1664104-1412927.png" />][blank] : srikoushikkamal@gmail.com
+[<img align="left" alt="skk" width="22px" src="https://cdn.iconscout.com/icon/free/png-256/gmail-1664104-1412927.png" />][https://blank.org] : srikoushikkamal@gmail.com
 
 
 
