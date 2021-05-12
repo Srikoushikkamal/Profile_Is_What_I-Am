@@ -20,10 +20,8 @@
 
 [<img align="left" alt="skk | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="skk | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="skk | Mail" width="22px" src="https://cdn.iconscout.com/icon/free/png-256/gmail-1664104-1412927.png" />][mail]
+[<img align="left" alt="skk | Mail" width="22px" src="https://cdn.iconscout.com/icon/free/png-256/gmail-1664104-1412927.png" />] srikoushikkamal@gmail.com
 
-{r klippy, echo=FALSE, include=TRUE}
-klippy::klippy()
 
 
 <br />
