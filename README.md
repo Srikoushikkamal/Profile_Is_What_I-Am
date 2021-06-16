@@ -52,8 +52,7 @@
 <p align="center"><img src="https://profile-counter.glitch.me/{Srikoushikkamal}/count.svg" alt="Srikoushikkamal :: Profile Views" /></p>
 <br/>
 <details>
-  <summary>Hustle</summary>
- 
+
 
 
 </details>
