@@ -12,7 +12,7 @@
 - 🔭 Python ! 
 - 🌱 Trying To Enirich ML And It's Branches
 - 👯 I'm Always Open To Work With People
-- 🥅 2021 Goals: To Get An ML Internship 
+- 🥅 2021 Goals: To Get An ML/DS Internship 
 - ⚡! Music Is All I Believe in..!
 
 
