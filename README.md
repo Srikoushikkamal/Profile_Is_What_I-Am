@@ -51,11 +51,7 @@
 
 <p align="center"><img src="https://profile-counter.glitch.me/{Srikoushikkamal}/count.svg" alt="Srikoushikkamal :: Profile Views" /></p>
 <br/>
-<details>
 
-
-
-</details>
 
 [resume]:https://docs.google.com/document/d/e/2PACX-1vTIQ8UJXOizIppUrb6EsvwpXwhfkzW7HJmOFikzPPL7E65_Nn6GssJOupJefgZT3i4ZlLQ4c8axq-k7/pub
 [website]: https://srikoushikkamal.life
