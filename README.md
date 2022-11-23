@@ -15,8 +15,9 @@
 - ⚡! Music Is All I Believe in..!
 
 ## GOALS
-- 🥅 2021 Goals: To Get An ML/DS Internship (Done)
-- 📆 2022 Goals : Be knowledge in DATA
+- 🥅 2021 Goal: To Get An ML/DS Internship (Done)
+- 📆 2022 Goal : Be Knowledge in DATA (Partial & Will Learn Through Process)
+- 🥅 2023 Goal : Professionally Be The Go Person In Projects
 
 
 
